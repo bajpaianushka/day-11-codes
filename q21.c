@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-	int month = 2;
+	int month = 12;
 	scanf("%d", &month);
 
 	switch(month){
