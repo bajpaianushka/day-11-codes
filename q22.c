@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
 	float cp = 1000;
-	float sp = 800;
+	float sp = 1000;
 	scanf("%f %f", &cp, &sp);
 
 	if(sp > cp){
